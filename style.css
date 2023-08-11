@@ -14,6 +14,8 @@ body {
   padding-left: 20px;
   width: 400px;
   font-size: 1em;
+  font-weight: lighter;
+  color: #000;
 }
 
 .art {
@@ -340,13 +342,6 @@ textarea:hover {
 /* ------------------------ Text------------------- */
 /* ------------------------------------------------ */
 
-
-
-h1 {
-  font-size: 1.6em;
-  font-weight: lighter;
-  color: #000;
-}
 
 h2 {
   font-size: 3em;
