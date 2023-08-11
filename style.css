@@ -13,6 +13,7 @@ body {
 .header {
   padding-left: 20px;
   width: 400px;
+  font-size: 2em;
 }
 
 .art {
@@ -450,6 +451,7 @@ a:active {
   
   .header {
     padding-left: 95px;
+    font-size: 3em;
   }
 
   .hamburger {
